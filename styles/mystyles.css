@@ -1,0 +1,64 @@
+body{
+    font-family:  verdana, sans-serif;
+}
+
+.resume{
+    padding-top: 45px;
+    padding-bottom: 225px;
+}
+.contactbg{
+    color: white;
+  background: url("../images/rainbow-bg.jpg") no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+}
+.aboutmebg{
+    display:table;
+    width:100%;
+    height:100%;
+    padding:200px 0;
+    text-align:center;
+    color:#fff;
+    background:url(../images/rimrock-bg.jpg) no-repeat bottom center scroll;
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; }
+}
+.image{
+    border: solid black;
+}
+
+h1{
+    color: ghostwhite;
+}
+.resumeheader{
+    font-weight: bold;
+    font-size: 22pt;
+}
+.resumeheading{
+    text-align: left;
+    font-weight: bold;
+    font-size: 16pt;
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    text-align: left;
+}
+hr{
+    border-color: white;
+}
+.hrskills{
+    margin: auto;
+    margin-top:20px;
+    padding: 10px;  
+}
+a{
+    color: cyan;
+}
