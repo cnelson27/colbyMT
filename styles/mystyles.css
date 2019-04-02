@@ -9,7 +9,7 @@ body{
 .contactbg{
     color: white;
   background: url("../images/rainbow-bg.jpg") no-repeat center center scroll;
-  background-color: black;
+  background-color: #120b13;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
