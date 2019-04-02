@@ -1,5 +1,6 @@
 body{
     font-family:  verdana, sans-serif;
+    background-color: #120b13;
 }
 
 .resume{
@@ -9,7 +10,6 @@ body{
 .contactbg{
     color: white;
   background: url("../images/rainbow-bg.jpg") no-repeat center center scroll;
-  background-color: #120b13;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -23,7 +23,6 @@ body{
     text-align:center;
     color:#fff;
     background:url(../images/rimrock-bg.jpg) no-repeat bottom center scroll;
-    background-color: black;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
